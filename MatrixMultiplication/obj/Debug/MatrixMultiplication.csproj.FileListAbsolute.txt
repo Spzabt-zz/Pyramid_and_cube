@@ -1,0 +1,6 @@
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\MatrixMultiplication\obj\Debug\MatrixMultiplication.csprojAssemblyReference.cache
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\MatrixMultiplication\obj\Debug\MatrixMultiplication.csproj.CoreCompileInputs.cache
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\MatrixMultiplication\obj\Debug\MatrixMultiplication.exe
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\MatrixMultiplication\obj\Debug\MatrixMultiplication.pdb

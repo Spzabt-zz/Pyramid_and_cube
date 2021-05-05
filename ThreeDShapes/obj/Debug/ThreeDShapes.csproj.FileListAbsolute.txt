@@ -1,0 +1,10 @@
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\bin\Debug\ThreeDShapes.exe.config
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\bin\Debug\ThreeDShapes.exe
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\bin\Debug\ThreeDShapes.pdb
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\obj\Debug\ThreeDShapes.csprojAssemblyReference.cache
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\obj\Debug\ThreeDShapes.Properties.Resources.resources
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\obj\Debug\ThreeDShapes.csproj.GenerateResource.cache
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\obj\Debug\ThreeDShapes.csproj.CoreCompileInputs.cache
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\obj\Debug\ThreeDShapes.exe
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\obj\Debug\ThreeDShapes.pdb
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDShapes\obj\Debug\ThreeDShapes.Form1.resources

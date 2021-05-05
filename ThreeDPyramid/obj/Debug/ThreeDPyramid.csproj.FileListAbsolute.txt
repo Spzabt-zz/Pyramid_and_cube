@@ -1,0 +1,10 @@
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\obj\Debug\ThreeDPyramid.csprojAssemblyReference.cache
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\obj\Debug\ThreeDPyramid.Properties.Resources.resources
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\obj\Debug\ThreeDPyramid.csproj.GenerateResource.cache
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\obj\Debug\ThreeDPyramid.csproj.CoreCompileInputs.cache
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\bin\Debug\ThreeDPyramid.exe.config
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\bin\Debug\ThreeDPyramid.exe
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\bin\Debug\ThreeDPyramid.pdb
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\obj\Debug\ThreeDPyramid.exe
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\obj\Debug\ThreeDPyramid.pdb
+D:\Study\Комп'ютерна графіка 1.0\ThreeDShapes\ThreeDPyramid\obj\Debug\ThreeDPyramid.Form1.resources
